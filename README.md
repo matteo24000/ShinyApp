@@ -1,7 +1,7 @@
 # Présentation
 Auteur : Mattéo Lebriat <br><br>
-Date : 02/08/2021
- Nom : ShinyApp
+Date : 02/08/2021 <br><br>
+Nom : ShinyApp
 
 # ShinyApp
 Visualisation de données de votes pour Sciences Politiques Avignon.
